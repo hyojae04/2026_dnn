@@ -1,0 +1,3 @@
+user_id,date,sleep_hours,water_liters,sugar_score,dairy_score,spicy_food_score,exercise_minutes,stress_score,mask_hours,uv_exposure_hours,cleanser_use,moisturizer_use,product_changed,temperature_c,humidity,pm25,acne_score,redness_score,dryness_score,wrinkle_score,pigmentation_score,oiliness_score,pore_score,overall_skin_score
+user001,2026-03-20,6.0,1.4,3,1,2,20,7,6,1.2,1,1,0,18,42,35,70,60,55,80,68,57,62,65
+user001,2026-03-21,5.0,1.2,4,2,3,10,8,7,1.5,1,1,1,19,40,42,66,56,50,79,65,60,61,61
