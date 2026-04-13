@@ -4,3 +4,4 @@ torchvision
 pandas
 pillow
 tqdm
+google-cloud-storage
