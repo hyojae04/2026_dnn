@@ -5,3 +5,7 @@ pandas
 pillow
 tqdm
 google-cloud-storage
+matplotlib
+seaborn
+scikit-learn
+torchinfo
